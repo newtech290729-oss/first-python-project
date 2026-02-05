@@ -10,6 +10,10 @@ if days == 0:
     print("Error: Days worked cnanot be zero.")
     exit()
 
+if days < 1 or days > 7:
+    print("ERROR: Days worked must be between 1 and 7. ")
+    exit()
+
 print("Days", days)
 
 total_earnings = 0.0
