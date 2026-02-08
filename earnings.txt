@@ -1,0 +1,5 @@
+Monday: 220
+Tuesday: 325
+Wednesday: 329
+Thursday: 300
+Friday: 240
